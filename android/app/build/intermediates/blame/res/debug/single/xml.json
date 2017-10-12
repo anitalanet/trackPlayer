@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/res/merged/debug/xml/automotive_app_desc.xml",
+        "source": "/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/trackPlayer/react-native-track-player/unspecified/res/xml/automotive_app_desc.xml"
+    }
+]

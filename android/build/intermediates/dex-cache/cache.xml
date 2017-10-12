@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_cb4a50a130e3c81fc04de7ab6acd926809536e91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e013739f7ddb6740bf196dc515d8999a6030f9ea">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.3_af865a6f100d58664b1403c43f2aa94bccfd1371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c56b596b03a0b9f13b20316c4820f79627f94a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_eae83bef7b5de475bd941f4fdde9c639a79166b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_1b93ce8b9f58f37666028fee6fdc4e357d344371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7e4843d107cd9053f8716b58495b436315017cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.4.0_2f7325bab18306009a9c03cb9e8ebca1c2bedba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_6ba517b3b4a2512a1c253ce90d2fcac0d50950ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_2784d12110425a4cb125e440e7faec8fa68bc995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_eca9ddbc56854cbe853e1a0ce4519d184a62d169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_7260232134c25182646a02182385e6f72b124d62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_35cecc835b4bf0d8239911dbe09be86317e1d67c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_ea312707c6fe4ee61f3b66b6ecf912f744848d68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_c023f533ea753ca668b61be4975ea18ff8f6b897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_85e54ef3a6d3493cef659a1a7de0b995a208a7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_c1d321912b9e58d108851666f65a18de640682bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_23a73bafc918f2c5674b87a0bf8299a73a001674.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/trackPlayer/react-native-track-player/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c1d49397d15db739d7c54c2eeed71c6d792e3364">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/trackPlayer-react-native-track-player-unspecified_09fa5e650955e83d3dc5f830e8717bd3951386e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_affc2381bf15c56be1e79b4df21a1d6ccd07c1ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_525f75d11d02dcef4141711bd1c2a12fbcb7207f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_0699119147721631457ea17f501576b7a872335c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_733a18ab0376f99c546bd9394e20e0b5b4e58f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_46bc2817ddd073c42ddc9533510373c322770a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_adf169a055fcbbf4193b37b5e84cd54356cb0b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.4.0_94fa86c2bf33702ac6724a76e09fe9fd05631ac0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_676a9c7ea066c4332a40077c4032597e416bd4ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_60096f3d640878f33652cc939260436c380e25bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_908865f7d1a712e252dcb1de61277009f7476153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b25d349e6d926d8b5a8500313f297a27cf1175f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_6f84f9cb4a4699795771648454849e3d9e01997c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/itilak/Documents/learnReact/trackPlayer/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_42b50853630cfb1770891763c31200740a8b3b00.jar" />
+    </item>
+
+</items>
